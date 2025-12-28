@@ -44,6 +44,13 @@ export function Ministries() {
       description: 'Pequenos grupos multiplicadores, indo de casa em casa.',
       members: '12 células ativas',
     },
+    {
+      id: 7,
+      icon: Sparkles, 
+      name: 'Ministério da Limpeza',
+      description: 'Zelamos com amor pela organização e limpeza da casa do Senhor, servindo com excelência.',
+      members: 'Equipe dedicada', 
+    },
   ];
 
   return (
