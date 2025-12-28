@@ -1,5 +1,5 @@
 import fotoPastor from '../../assets/pastor.jpg';
-import fotoCasal from '../../assets/pastor e esposa.jpg';
+import fotoCasal from '../../assets/pastor-e-esposa.jpg';
 
 export function Pastor() {
   return (
