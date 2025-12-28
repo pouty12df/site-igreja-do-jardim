@@ -1,4 +1,4 @@
-import bannerImg from '../../assets/fotoprincipal.jpg';
+import bannerImg from '../../assets/foto-principal.jpg';
 
 export function Hero() {
   return (
