@@ -28,7 +28,7 @@ export function Footer() {
           </div>
           <div>
             <h4 className="text-white font-bold mb-4">Horário dos Cultos</h4>
-            <p>Domingo: 10h e 18h</p>
+            <p>Domingo: 09h EBD e 19h Culto</p>
             <p>Quarta: 19h30</p>
           </div>
         </div>
